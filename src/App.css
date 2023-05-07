@@ -1,3 +1,8 @@
+
+.c1{
+  background: rgb(36,0,19);
+background: linear-gradient(90deg, rgba(36,0,19,1) 32%, rgba(154,28,54,1) 100%);
+}
 .App {
   text-align: center;
 }
